@@ -1,2 +1,12 @@
 # AbhisExample
-Example code for A
+
+This is just an example for git usage
+
+```
+git status
+git diff
+git add .\README.md
+git commit -m "My First commit"
+```
+
+
