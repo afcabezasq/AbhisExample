@@ -5,3 +5,5 @@ if y == "john":
     print("I like john")
 else: 
     print("I wish you were a john")
+
+print("This is another example")

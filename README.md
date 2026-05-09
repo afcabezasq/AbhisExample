@@ -9,6 +9,10 @@ git add .\README.md
 git commit -m "My First commit"
 git push
 git checkout andres/my-branch
+
+
+git stash
+git stash apply
 ```
 
 
