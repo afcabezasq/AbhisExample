@@ -1,7 +1,4 @@
 print("Another example")
-
-for i  in range(10):
-    print("Conflict example")
-    print("Conflict example")
-    print("Conflict example")
-    print("Conflict example")
+print("Hi")
+print("My name is abhijay")
+print("I like using Rasberry Pi, ESP32, and Arduino")
