@@ -3,3 +3,5 @@ for i in range(10):
     print(1)
     print(0)
     print(0)
+    
+print("This is a main example")
